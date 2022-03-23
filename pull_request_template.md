@@ -1,6 +1,6 @@
 # Description
 
-Please include a summary of the changes, including screenshots, if applicable. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Please include a summary of the changes, including screenshots, if applicable. Please also provide any motivation and context necessary to review these changes. List any dependencies that are required for this change.
 
 ## Type of change
 
