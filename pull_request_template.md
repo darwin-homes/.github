@@ -16,11 +16,10 @@
 
 <!-- Please describe the tests that you ran or will run to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
 
-- [ ] Unit tests
-- [ ] Test in staging by doing X, Y, and Z
+- [ ] Add any plans you have for testing. Examples include testing locally, unit/integration tests, and manual testing in preview/staging environments.
 
 **Test Configuration**:
-- Unit with active lease
+- Add any necessary configuration for reviewers to test your change
  -->
  
 # Checklist:
